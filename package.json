@@ -1,0 +1,26 @@
+{
+  "name": "reacttdd",
+  "version": "1.0.0",
+  "description": "Testing React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgravina/reacttdd.git"
+  },
+  "keywords": [
+    "react",
+    "tdd"
+  ],
+  "author": "Robert Gravina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgravina/reacttdd/issues"
+  },
+  "homepage": "https://github.com/rgravina/reacttdd#readme",
+  "devDependencies": {
+    "webpack": "^4.8.3"
+  }
+}
