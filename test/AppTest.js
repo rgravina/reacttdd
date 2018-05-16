@@ -1,7 +1,3 @@
-import React from "react"
-import expect from "expect"
-import {shallow} from "enzyme"
-
 import App from "../src/App"
 
 describe('App', () => {
@@ -9,4 +5,4 @@ describe('App', () => {
         const app = shallow(<App/>);
         expect(app).toBeDefined()
     })
-})
+});
