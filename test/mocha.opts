@@ -1,0 +1,4 @@
+--recursive
+--colors
+--require babel-core/register
+--reporter spec
